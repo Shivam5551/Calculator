@@ -6,5 +6,15 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Calculator
-##Basic Calculator
+
+# Basic Calculator
+
+This is a simple calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
